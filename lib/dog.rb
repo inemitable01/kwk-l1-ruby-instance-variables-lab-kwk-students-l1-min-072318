@@ -7,4 +7,4 @@ class Dog
   end
 end
 
-lassie = 
+lassie = Do
